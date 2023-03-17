@@ -17,6 +17,7 @@ pkgs="
     honeywell
     ionq
     pyscf
+    riqu
 "
 
 for pkg in $pkgs

@@ -22,4 +22,5 @@ API Reference
     quri_parts/honeywell/quri_parts.honeywell
     quri_parts/ionq/quri_parts.ionq
     quri_parts/pyscf/quri_parts.pyscf
+    quri_parts/riqu/quri_parts.riqu
 

@@ -10,5 +10,6 @@ Tutorials
     tutorials/variational
     tutorials/sampling_simulation
     tutorials/sampling_real
+    tutorials/sampling_on_riqu_server
     tutorials/noise_error
     tutorials/error_mitigation
